@@ -19,6 +19,7 @@
   <li>Prettier</li>
   <li>Husky</li>
   <li>Lint-staged</li>
+  <li>gh-pages</li>
 </ul>
 
 # Features Overview
