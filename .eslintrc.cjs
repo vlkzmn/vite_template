@@ -24,9 +24,11 @@ module.exports = {
       { allowConstantExport: true },
     ],
     'no-console': 'error',
-    indent: ['error', 2],
+    indent: ['error', 2, { SwitchCase: 1 }],
+    '@typescript-eslint/no-floating-promises': 'off',
     'react/jsx-uses-react': 'off',
     'react/react-in-jsx-scope': 'off',
+    'react/prop-types': 'off',
   },
   settings: {
     react: {
