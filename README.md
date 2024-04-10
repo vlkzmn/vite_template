@@ -32,9 +32,7 @@
 
 # Preview
 
-<p align="center">
-  <img src="https://github.com/vlkzmn/-------------/raw/main/public/img/preview.gif" alt="-------------">
-</p>
+![-------------](public/preview.gif)
 
 # How to run the project locally
 
